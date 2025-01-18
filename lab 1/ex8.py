@@ -1,0 +1,6 @@
+x=int(4)
+y=str(4)
+X=float(4)
+print(x)
+print(y)
+print(X)

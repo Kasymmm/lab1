@@ -1,0 +1,10 @@
+x = int(5)   
+y = int(6.3) 
+z = int("78")
+print(x,y,z)
+
+a = float(4)    
+b = float(1.4)   
+c = float("6")   
+d = float("7.6")
+print(a,b,c,d) 
